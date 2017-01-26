@@ -1,0 +1,332 @@
+<NodeData>
+	<Node>
+		<C-User-ID>2M0ROT-ND</C-User-ID>
+		<DTMF-ID>18603</DTMF-ID>
+		<Act></Act>
+		<CallRmName>2M0ROT</CallRmName>
+		<AnaDig>Digital</AnaDig>
+		<City>Port Glasgow</City>
+		<State>Inverclyde</State>
+		<Country>UK</Country>
+		<Freq>144.8125MHz</Freq>
+		<SQL>DSQ:OFF</SQL>
+		<Lat>N:55 56' 06&quot;</Lat>
+		<Lon>W:004 41' 43&quot;</Lon>
+		<Comment></Comment>
+	</Node>
+	<Node>
+		<C-User-ID>G0SSZ-ND</C-User-ID>
+		<DTMF-ID>31278</DTMF-ID>
+		<Act></Act>
+		<CallRmName>G0SSZ</CallRmName>
+		<AnaDig>Digital</AnaDig>
+		<City>Leeds</City>
+		<State>West Yorkshire</State>
+		<Country>UK</Country>
+		<Freq>144.850MHz</Freq>
+		<SQL>DSQ:OFF</SQL>
+		<Lat></Lat>
+		<Lon></Lon>
+		<Comment></Comment>
+	</Node>
+	<Node>
+		<C-User-ID>GB3WF-RPT</C-User-ID>
+		<DTMF-ID>17292</DTMF-ID>
+		<Act></Act>
+		<CallRmName>GB3WF</CallRmName>
+		<AnaDig>Digital</AnaDig>
+		<City>Leeds</City>
+		<State>West Yorkshire</State>
+		<Country>UK</Country>
+		<Freq>433.350MHz+1.600MHz</Freq>
+		<SQL>DSQ:OFF</SQL>
+		<Lat>N:53 53' 27&quot;</Lat>
+		<Lon>W:001 41' 57&quot;</Lon>
+		<Comment>GB3WF Otley Amature Radio Society Repeater - gb3wf.co.uk</Comment>
+	</Node>
+	<Node>
+		<C-User-ID>GB7CS-RPT</C-User-ID>
+		<DTMF-ID>17110</DTMF-ID>
+		<Act></Act>
+		<CallRmName>GM7GDE</CallRmName>
+		<AnaDig>Digital</AnaDig>
+		<City>East Kilbride</City>
+		<State>Lanarkshire</State>
+		<Country>UK</Country>
+		<Freq>439.775MHz-9.000MHz</Freq>
+		<SQL>DSQ:OFF</SQL>
+		<Lat>N:55 45' 00&quot;</Lat>
+		<Lon>W:004 13' 07&quot;</Lon>
+		<Comment>www.csfmg.com</Comment>
+	</Node>
+	<Node>
+		<C-User-ID>GB7IE-RPT</C-User-ID>
+		<DTMF-ID>18693</DTMF-ID>
+		<Act></Act>
+		<CallRmName>GB7IE</CallRmName>
+		<AnaDig>Digital</AnaDig>
+		<City>Plymouth</City>
+		<State>Devon</State>
+		<Country>UK</Country>
+		<Freq>145.675MHz-0.600MHz</Freq>
+		<SQL>DSQ:OFF</SQL>
+		<Lat>N:50 23' 22&quot;</Lat>
+		<Lon>W:004 06' 38&quot;</Lon>
+		<Comment></Comment>
+	</Node>
+	<Node>
+		<C-User-ID>GB7KE-RPT</C-User-ID>
+		<DTMF-ID>17719</DTMF-ID>
+		<Act></Act>
+		<CallRmName>GB7KE</CallRmName>
+		<AnaDig>Digital</AnaDig>
+		<City>Kettering</City>
+		<State>Northamptonshire</State>
+		<Country>UK</Country>
+		<Freq>430.975MHz+7.600MHz</Freq>
+		<SQL>DSQ:OFF</SQL>
+		<Lat>N:52 23' 26&quot;</Lat>
+		<Lon>W:000 44' 47&quot;</Lon>
+		<Comment>WELCOME to GB7KE Repeater in Kettering Northants </Comment>
+	</Node>
+	<Node>
+		<C-User-ID>GB7RY</C-User-ID>
+		<DTMF-ID>17260</DTMF-ID>
+		<Act></Act>
+		<CallRmName>GB7RY</CallRmName>
+		<AnaDig>Digital</AnaDig>
+		<City>Rye</City>
+		<State>East Sussex</State>
+		<Country>UK</Country>
+		<Freq>430.950MHz+7.600MHz</Freq>
+		<SQL>DSQ:OFF</SQL>
+		<Lat>N:00 36' 20&quot;</Lat>
+		<Lon>E:050 57' 03&quot;</Lon>
+		<Comment>South East England</Comment>
+	</Node>
+	<Node>
+		<C-User-ID>GB7WX-RPT</C-User-ID>
+		<DTMF-ID>18632</DTMF-ID>
+		<Act></Act>
+		<CallRmName>GB7WX</CallRmName>
+		<AnaDig>Digital</AnaDig>
+		<City>Chester</City>
+		<State>Cheshire</State>
+		<Country>UK</Country>
+		<Freq>430.875MHz+7.600MHz</Freq>
+		<SQL>DSQ:OFF</SQL>
+		<Lat>N:53 11' 34&quot;</Lat>
+		<Lon>W:002 46' 00&quot;</Lon>
+		<Comment></Comment>
+	</Node>
+	<Node>
+		<C-User-ID>GM0MRJ-ND</C-User-ID>
+		<DTMF-ID>31247</DTMF-ID>
+		<Act></Act>
+		<CallRmName>GM0MRJ</CallRmName>
+		<AnaDig>Digital</AnaDig>
+		<City>Glenrothes</City>
+		<State>Fife</State>
+		<Country>UK</Country>
+		<Freq>144.8375MHz</Freq>
+		<SQL>DSQ:OFF</SQL>
+		<Lat>N:56 11' 58&quot;</Lat>
+		<Lon>W:003 12' 13&quot;</Lon>
+		<Comment></Comment>
+	</Node>
+	<Node>
+		<C-User-ID>M0AUT-ND</C-User-ID>
+		<DTMF-ID>18875</DTMF-ID>
+		<Act></Act>
+		<CallRmName>M0AUT</CallRmName>
+		<AnaDig>Digital</AnaDig>
+		<City>Blackpool</City>
+		<State>Lancashire</State>
+		<Country>UK</Country>
+		<Freq>144.465MHz</Freq>
+		<SQL>DSQ:OFF</SQL>
+		<Lat>N:53 52' 13&quot;</Lat>
+		<Lon>W:003 01' 47&quot;</Lon>
+		<Comment>MB6DR-GW on the Fylde Coast</Comment>
+	</Node>
+	<Node>
+		<C-User-ID>M0SGS-STU</C-User-ID>
+		<DTMF-ID>17793</DTMF-ID>
+		<Act></Act>
+		<CallRmName>MB6ILE</CallRmName>
+		<AnaDig>Digital</AnaDig>
+		<City>Pudsey</City>
+		<State>West Yorkshire</State>
+		<Country>UK</Country>
+		<Freq>438.475MHz</Freq>
+		<SQL>DSQ:OFF</SQL>
+		<Lat>N:53 47' 49&quot;</Lat>
+		<Lon>W:001 40' 33&quot;</Lon>
+		<Comment>M0SGS TECH HELP</Comment>
+	</Node>
+	<Node>
+		<C-User-ID>M6KCA-ND</C-User-ID>
+		<DTMF-ID>17734</DTMF-ID>
+		<Act></Act>
+		<CallRmName>M6KCA</CallRmName>
+		<AnaDig>Digital</AnaDig>
+		<City>Telford</City>
+		<State>Shropshire</State>
+		<Country>UK</Country>
+		<Freq>144.850MHz</Freq>
+		<SQL>DSQ:OFF</SQL>
+		<Lat></Lat>
+		<Lon></Lon>
+		<Comment></Comment>
+	</Node>
+	<Node>
+		<C-User-ID>MB6CN-GW</C-User-ID>
+		<DTMF-ID>17679</DTMF-ID>
+		<Act></Act>
+		<CallRmName>MB6CN</CallRmName>
+		<AnaDig>Digital</AnaDig>
+		<City>Combe St Nicholas</City>
+		<State>Somerset</State>
+		<Country>UK</Country>
+		<Freq>144.8625MHz</Freq>
+		<SQL>DSQ:OFF</SQL>
+		<Lat>N:50 53' 49&quot;</Lat>
+		<Lon>W:002 59' 30&quot;</Lon>
+		<Comment>Welcome to South Somerset in the South West of England UK</Comment>
+	</Node>
+	<Node>
+		<C-User-ID>MB6IAG-GW</C-User-ID>
+		<DTMF-ID>31087</DTMF-ID>
+		<Act></Act>
+		<CallRmName>2E0ENN</CallRmName>
+		<AnaDig>Digital</AnaDig>
+		<City>Cranwell</City>
+		<State>Lincolnshire</State>
+		<Country>UK</Country>
+		<Freq>144.8125MHz</Freq>
+		<SQL>DSQ:OFF</SQL>
+		<Lat></Lat>
+		<Lon></Lon>
+		<Comment></Comment>
+	</Node>
+	<Node>
+		<C-User-ID>MB6IAS-ND</C-User-ID>
+		<DTMF-ID>18895</DTMF-ID>
+		<Act></Act>
+		<CallRmName>MB6IAS</CallRmName>
+		<AnaDig>Digital</AnaDig>
+		<City>Ashford</City>
+		<State>Kent</State>
+		<Country>UK</Country>
+		<Freq>434.475MHz</Freq>
+		<SQL>DSQ:OFF</SQL>
+		<Lat>N:51 08' 24&quot;</Lat>
+		<Lon>E:000 54' 18&quot;</Lon>
+		<Comment></Comment>
+	</Node>
+	<Node>
+		<C-User-ID>MB6IGZ-GW</C-User-ID>
+		<DTMF-ID>17883</DTMF-ID>
+		<Act></Act>
+		<CallRmName>MB6IGZ</CallRmName>
+		<AnaDig>Digital</AnaDig>
+		<City>Wirral</City>
+		<State>Merseyside</State>
+		<Country>UK</Country>
+		<Freq>434.050MHz</Freq>
+		<SQL>DSQ:OFF</SQL>
+		<Lat>N:53 23' 42&quot;</Lat>
+		<Lon>W:003 01' 46&quot;</Lon>
+		<Comment></Comment>
+	</Node>
+	<Node>
+		<C-User-ID>MB6INY-GW</C-User-ID>
+		<DTMF-ID>31203</DTMF-ID>
+		<Act></Act>
+		<CallRmName>MB6INY</CallRmName>
+		<AnaDig>Digital</AnaDig>
+		<City>Newquay</City>
+		<State>Cornwall</State>
+		<Country>UK</Country>
+		<Freq>431.1125MHz</Freq>
+		<SQL>DSQ:OFF</SQL>
+		<Lat>N:50 25' 17&quot;</Lat>
+		<Lon>W:005 03' 42&quot;</Lon>
+		<Comment>SURF CAPITAL UK North Cornish Coast</Comment>
+	</Node>
+	<Node>
+		<C-User-ID>MB6LG-GW</C-User-ID>
+		<DTMF-ID>31199</DTMF-ID>
+		<Act></Act>
+		<CallRmName>MB6LG</CallRmName>
+		<AnaDig>Digital</AnaDig>
+		<City>Petts Wood</City>
+		<State>Kent</State>
+		<Country>UK</Country>
+		<Freq>144.850MHz</Freq>
+		<SQL>DSQ:OFF</SQL>
+		<Lat>N:51 23' 24&quot;</Lat>
+		<Lon>E:000 04' 55&quot;</Lon>
+		<Comment>Serving SE London 24/7 on 144.850Mhz</Comment>
+	</Node>
+	<Node>
+		<C-User-ID>MB6SN-GW</C-User-ID>
+		<DTMF-ID>18989</DTMF-ID>
+		<Act></Act>
+		<CallRmName>MB6SN/GW</CallRmName>
+		<AnaDig>Digital</AnaDig>
+		<City>seaton</City>
+		<State>Devon</State>
+		<Country>UK</Country>
+		<Freq>144.8375MHz</Freq>
+		<SQL>DSQ:OFF</SQL>
+		<Lat>N:50 43' 04&quot;</Lat>
+		<Lon>E:003 04' 35&quot;</Lon>
+		<Comment></Comment>
+	</Node>
+	<Node>
+		<C-User-ID>MB6SY-GW</C-User-ID>
+		<DTMF-ID>17815</DTMF-ID>
+		<Act></Act>
+		<CallRmName>G6UYG</CallRmName>
+		<AnaDig>Digital</AnaDig>
+		<City>Shrewsbury</City>
+		<State>Shropshire</State>
+		<Country>UK</Country>
+		<Freq>144.825MHz</Freq>
+		<SQL>DSQ:OFF</SQL>
+		<Lat>N:52 41' 43&quot;</Lat>
+		<Lon>W:002 44' 33&quot;</Lon>
+		<Comment>2 Mtr Gateway in Shrewsbury in Shropshire run by Steve G6UYG</Comment>
+	</Node>
+	<Node>
+		<C-User-ID>MB7IGH-GW</C-User-ID>
+		<DTMF-ID>18852</DTMF-ID>
+		<Act></Act>
+		<CallRmName>G3ZPU</CallRmName>
+		<AnaDig>Analog</AnaDig>
+		<City>Horncastle</City>
+		<State>Lincolnshire</State>
+		<Country>UK</Country>
+		<Freq>144.9625MHz</Freq>
+		<SQL>TSQ: 77.0Hz</SQL>
+		<Lat>N:53 12' 28&quot;</Lat>
+		<Lon>W:000 06' 20&quot;</Lon>
+		<Comment></Comment>
+	</Node>
+	<Node>
+		<C-User-ID>MM6BWS-ND</C-User-ID>
+		<DTMF-ID>31266</DTMF-ID>
+		<Act></Act>
+		<CallRmName>MM6BWS</CallRmName>
+		<AnaDig>Digital</AnaDig>
+		<City>cuminestown</City>
+		<State>Aberdeenshire</State>
+		<Country>UK</Country>
+		<Freq></Freq>
+		<SQL></SQL>
+		<Lat></Lat>
+		<Lon></Lon>
+		<Comment></Comment>
+	</Node>
+</NodeData>
